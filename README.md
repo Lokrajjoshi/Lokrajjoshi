@@ -23,7 +23,7 @@ MCA Student | Software Developer | Full Stack & Automation Enthusiast
 - 🧪 Hands-on experience with **API Testing, Selenium and Postman**
 - 💼 Former **Senior Technician at Dell Technologies** with around **1 year of professional experience**
 - 🚀 Former **SAP Labs India Intern**, working with automation and software testing
-- 🐍 Completed a **Python Internship at InternPe**
+- 🐍 Former **Python Intern at InternPe**
 - 🤝 Former **Dell Technologies Campus Ambassador**
 - 🔧 Comfortable with **Git, GitHub, VS Code, IntelliJ and modern development workflows**
 - 📚 Focused on continuously improving my skills and building practical, scalable solutions
@@ -129,18 +129,6 @@ MCA Student | Software Developer | Full Stack & Automation Enthusiast
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lokrajjoshi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokrajjoshi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌌 3D Contribution Graph
 
 <p align="center">
@@ -162,7 +150,7 @@ MCA Student | Software Developer | Full Stack & Automation Enthusiast
 - 🎓 Pursuing **Master of Computer Applications**
 - 💼 Around **1 year of professional experience at Dell Technologies**
 - 🚀 Former **SAP Labs India Intern**
-- 🐍 Python Internship experience
+- 🐍 Former **Python Intern at InternPe**
 - 🤝 Former **Dell Technologies Campus Ambassador**
 - 💻 Building Full Stack MERN applications
 - 🧪 Experience with Automation and API Testing
@@ -190,7 +178,7 @@ MCA Student | Software Developer | Full Stack & Automation Enthusiast
 ---
 
 <p align="center">
-  <i>“Always Learning • Always Building • Always Improving”</i>
+  <i>Always Learning • Always Building • Always Improving</i>
 </p>
 
 <p align="center">
