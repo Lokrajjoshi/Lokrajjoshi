@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,45:1D4ED8,100:06B6D4&height=160&section=header&text=LJ%20%7C%20JOSHI&fontSize=68&fontColor=FFFFFF&animation=twinkling" alt="Animated LJ Joshi logo" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,45:1D4ED8,100:06B6D4&height=160&section=header&text=LJ%20%7C%20JOSHI&fontSize=68&fontColor=FFFFFF&animation=twinkling" alt="Animated Loki Joshi logo" />
 
 # ⚡ LOKRAJ JOSHI
 
