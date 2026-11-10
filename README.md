@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=MCA+Student+%40+CHRIST+University;1+Year+of+Professional+Experience+%40+Dell+Technologies;Former+Automation+Testing+Intern+%40+SAP+Labs+India;Data+%26+Business+Analysis+%7C+Full-Stack+%7C+Automation+%7C+API+Testing;Representing+technology%2C+solving+problems%2C+building+reliable+systems" alt="Animated roles" />
 
-<p align="center"><a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/LJ-LOKRAJ%20JOSHI-161B22?style=for-the-badge&logo=github&logoColor=white" alt="LJ" /></a> <a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshlokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p align="center"><a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/LJ-LOKRAJ%20JOSHI-161B22?style=for-the-badge&logo=github&logoColor=white" alt="LJ" /></a> <a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 </div>
 
@@ -150,7 +150,7 @@ Interactive browser-based trivia application built using JavaScript, HTML, and C
 
 ## 🤝 Connect With Me
 
-<p align="center"><a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Lokraj%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshlokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Lokraj%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 
 <p align="center"><i>Always Learning • Always Building • Always Improving</i></p>
 <p align="center">⭐ Thanks for visiting my profile!</p>
