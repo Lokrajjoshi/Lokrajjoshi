@@ -2,7 +2,7 @@
 
 <img src="./assets/multiverse-hero.svg" width="100%" alt="Lokraj Joshi Project Multiverse — animated identity portal" />
 
-<div align="center"><img src="./assets/lokraj-joshi-portrait.png" width="420" alt="Lokraj Joshi portrait" /></div>
+<div align="center"><img src="./assets/lokraj-joshi-portrait.jpg" width="520" alt="Lokraj Joshi full portrait" /></div>
 
 <br />
 
@@ -23,7 +23,9 @@
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="https://img.shields.io/badge/OPEN_INTERACTIVE_PROFILE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open interactive profile portal" /></a>
 <a href="https://github.com/Lokrajjoshi/multiverse-portal"><img src="https://img.shields.io/badge/MULTIVERSE_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Project Multiverse repository" /></a>
 
-<img src="./assets/engagement-signal.svg" width="100%" alt="Animated Project Multiverse signal workflow: analyze, validate, ship." />\n\n<img src="./assets/cursor-signal.svg" width="100%" alt="Animated LJ cursor signal showing analyze, validate, and ship." />
+<img src="./assets/cursor-signal.svg" width="100%" alt="Animated LJ cursor signal showing analyze, validate, and ship." />
+
+<img src="./assets/engagement-signal.svg" width="100%" alt="Animated Project Multiverse signal workflow: analyze, validate, ship." />
 
 </div>
 
