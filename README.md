@@ -21,6 +21,8 @@
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="https://img.shields.io/badge/ENTER_PROJECT_MULTIVERSE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open the interactive Project Multiverse portal" /></a>
 <a href="https://github.com/Lokrajjoshi/multiverse-portal"><img src="https://img.shields.io/badge/MULTIVERSE_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Project Multiverse repository" /></a>
 
+<img src="./assets/operations-deck.svg" width="100%" alt="Animated LJ operations capability deck" />
+
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/cursor-signal.svg" width="100%" alt="Open Project Multiverse with animated LJ cursor signal" /></a>
 
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/racing-hud.svg" width="100%" alt="Animated LJ Signal Racing telemetry HUD" /></a>
@@ -47,8 +49,6 @@
 Each world represents a practical system built around a different operational problem: customer-experience intelligence, academic workflows, delivery visibility, commerce operations, and interactive browser experiences.
 
 ## Engineering Identity
-
-<img src="./assets/operations-deck.svg" width="100%" alt="Animated LJ operations capability deck" />
 
 I work at the intersection of **business insight, technical operations, and quality engineering**—turning unclear signals into dependable workflows, testable APIs, and practical software systems.
 
