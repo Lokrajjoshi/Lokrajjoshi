@@ -2,32 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,45:1D4ED8,100:06B6D4&height=160&section=header&text=LJ%20%7C%20JOSHI&fontSize=68&fontColor=FFFFFF&animation=twinkling" alt="Animated LJ Joshi logo" />
 
-# ⚡ ⟦ LJ ⟧ LOKRAJ · JOSHI ⟦ LJ ⟧
+# LOKRAJ JOSHI
 
-### MCA @ CHRIST University · 1 Year at Dell Technologies · SAP Labs India Alumni · Dell Campus Ambassador
+### Data & Business Analysis · Technical Solutions · QA Automation
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=MCA+Student+%40+CHRIST+University;1+Year+of+Professional+Experience+%40+Dell+Technologies;Former+Automation+Testing+Intern+%40+SAP+Labs+India;Data+%26+Business+Analysis+%7C+Full-Stack+%7C+Automation+%7C+API+Testing;Representing+technology%2C+solving+problems%2C+building+reliable+systems" alt="Animated roles" />
 
-<p align="center"><a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/LJ-LOKRAJ%20JOSHI-161B22?style=for-the-badge&logo=github&logoColor=white" alt="LJ" /></a> <a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p align="center"><a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/LJ-LOKRAJ%20JOSHI-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 </div>
 
 <p align="center">
-  <a href="#-professional-summary">PROFILE</a> ·
-  <a href="#-tech-stack">STACK</a> ·
-  <a href="#-featured-projects">PROJECTS</a> ·
-  <a href="#-professional-experience">EXPERIENCE</a> ·
-  <a href="#-contribution-activity">ACTIVITY</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Data%20%26%20Business%20Analysis-06B6D4?style=flat-square" alt="Data and Business Analysis" />
-  <img src="https://img.shields.io/badge/BUILD-Technical%20Solutions-1D4ED8?style=flat-square" alt="Technical Solutions" />
-  <img src="https://img.shields.io/badge/MODE-Always%20Learning-7C3AED?style=flat-square" alt="Always Learning" />
+  <a href="#professional-summary">PROFILE</a> ·
+  <a href="#tech-stack">CAPABILITIES</a> ·
+  <a href="#featured-projects">SELECTED WORK</a> ·
+  <a href="#professional-experience">EXPERIENCE</a> ·
+  <a href="#connect-with-me">CONTACT</a>
 </p>
 
 <details>
-<summary><strong>✨ Explore my engineering focus</strong></summary>
+<summary><strong>How I work</strong></summary>
 
 <br />
 
@@ -42,11 +36,11 @@ I work at the intersection of **business workflows, data quality, technical supp
 
 ---
 
-## 💻 Professional Summary
+## Professional Summary
 
 MCA candidate with experience in technical support, automation testing, SQL, Python, APIs, and web development. I enjoy connecting business needs with practical technical solutions — from understanding a workflow and its data, to building, testing, documenting, and improving the system behind it.
 
-## 👨‍💻 About Me
+## Profile
 
 - 🎓 Pursuing **Master of Computer Applications** at **CHRIST (Deemed to be University), Bengaluru**
 - 📊 Exploring **Data Analysis, Business Analysis, data validation, and insight-driven workflows**
@@ -59,7 +53,7 @@ MCA candidate with experience in technical support, automation testing, SQL, Pyt
 
 ---
 
-## 🛠️ Tech Stack
+## Capabilities
 
 <p align="center"><strong>DATA • SYSTEMS • QUALITY • DELIVERY</strong></p>
 
@@ -75,10 +69,10 @@ MCA candidate with experience in technical support, automation testing, SQL, Pyt
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
 <details>
-<summary><strong>🧭 View project portfolio map</strong></summary>
+<summary><strong>Project overview</strong></summary>
 
 <br />
 
@@ -127,7 +121,7 @@ Interactive browser-based trivia application built using JavaScript, HTML, and C
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### 💻 Dell Technologies — Senior Technician
 
@@ -160,7 +154,7 @@ Interactive browser-based trivia application built using JavaScript, HTML, and C
 
 ---
 
-## 🎓 Leadership, Certifications & Beyond
+## Leadership & Certifications
 
 - **Class Representative / Event Coordinator** at CHRIST (Deemed to be University)
 - Football player, Karate practitioner, and trekking enthusiast
@@ -170,23 +164,19 @@ Interactive browser-based trivia application built using JavaScript, HTML, and C
 
 ---
 
-## 🧬 Engineering Activity Layer
+## Contribution Visuals
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=70&section=header&text=BUILD%20%E2%86%92%20TEST%20%E2%86%92%20ANALYZE%20%E2%86%92%20IMPROVE&fontSize=20&fontColor=FFFFFF&animation=fadeIn" alt="Build test analyze improve animation" />
-</p>
-
-## 🌌 3D Contribution Graph
+## 3D Contribution Graph
 
 <p align="center"><img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" /></p>
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center"><img src="https://raw.githubusercontent.com/Lokrajjoshi/Lokrajjoshi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></p>
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 - 🎓 MCA candidate at CHRIST University
 - 💼 **1 year of professional experience at Dell Technologies**
@@ -198,9 +188,9 @@ Interactive browser-based trivia application built using JavaScript, HTML, and C
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center"><a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Lokraj%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
 
-<p align="center"><i>Always Learning • Always Building • Always Improving</i></p>
+<p align="center"><i>Analysis • Quality • Delivery</i></p>
 <p align="center">⭐ Thanks for visiting my profile!</p>
