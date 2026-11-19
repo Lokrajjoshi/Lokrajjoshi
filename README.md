@@ -2,8 +2,6 @@
 
 <img src="./assets/multiverse-hero.svg" width="100%" alt="Lokraj Joshi Project Multiverse — animated identity portal" />
 
-<div align="center"><img src="./assets/lokraj-joshi-portrait.jpg" width="520" alt="Lokraj Joshi full portrait" /></div>
-
 <br />
 
 <img src="./assets/credential-deck.svg" width="100%" alt="Animated LJ credential deck showing MCA at CHRIST University, one full year at Dell Technologies, former SAP Labs India intern, and Dell Campus Ambassador." />
