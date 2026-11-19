@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+<title id="title">LJ cursor signal</title>
+<desc id="desc">Animated Project Multiverse cursor signal moving through analyze, validate, and ship stages.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050b14"/><stop offset=".5" stop-color="#10233b"/><stop offset="1" stop-color="#160e32"/></linearGradient>
+<linearGradient id="path" x1="0" x2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#38bdf8" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="180" rx="24" fill="url(#bg)" stroke="#23405b"/>
+<rect width="1200" height="180" rx="24" fill="url(#grid)"/>
+<path d="M64 108H1136" stroke="url(#path)" stroke-width="2"/>
+<g filter="url(#glow)">
+<circle cx="140" cy="90" r="28" fill="#22d3ee" fill-opacity=".12"><animate attributeName="r" values="23;34;23" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="90" r="19" fill="#22d3ee"/><text x="140" y="96" text-anchor="middle" fill="#06111c" font-family="Consolas,monospace" font-size="12" font-weight="800">LJ</text>
+</g>
+<text x="190" y="64" fill="#e9f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">CURSOR SIGNAL ONLINE</text>
+<text x="190" y="88" fill="#8ba6bf" font-family="Consolas,monospace" font-size="11" letter-spacing="1.6">MOVE THROUGH THE MULTIVERSE // FOLLOW THE SIGNAL</text>
+<g font-family="Consolas,monospace" font-size="12" font-weight="800">
+<g transform="translate(520 55)"><rect width="150" height="48" rx="12" fill="#0b2340" stroke="#22d3ee"/><text x="75" y="30" text-anchor="middle" fill="#67e8f9">ANALYZE</text><circle cx="13" cy="12" r="4" fill="#22d3ee"><animate attributeName="cx" values="13;137;13" dur="2.8s" repeatCount="indefinite"/></circle></g>
+<path d="M686 79H710" stroke="#67e8f9" stroke-width="2"/>
+<g transform="translate(726 55)"><rect width="150" height="48" rx="12" fill="#18183b" stroke="#a78bfa"/><text x="75" y="30" text-anchor="middle" fill="#c4b5fd">VALIDATE</text><circle cx="13" cy="12" r="4" fill="#a78bfa"><animate attributeName="cx" values="13;137;13" dur="2.8s" begin=".6s" repeatCount="indefinite"/></circle></g>
+<path d="M892 79H916" stroke="#c4b5fd" stroke-width="2"/>
+<g transform="translate(932 55)"><rect width="150" height="48" rx="12" fill="#0d2c2d" stroke="#2dd4bf"/><text x="75" y="30" text-anchor="middle" fill="#99f6e4">SHIP</text><circle cx="13" cy="12" r="4" fill="#2dd4bf"><animate attributeName="cx" values="13;137;13" dur="2.8s" begin="1.2s" repeatCount="indefinite"/></circle></g>
+</g>
+</svg>
