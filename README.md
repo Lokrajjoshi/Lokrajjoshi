@@ -21,8 +21,6 @@
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="https://img.shields.io/badge/ENTER_PROJECT_MULTIVERSE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open the interactive Project Multiverse portal" /></a>
 <a href="https://github.com/Lokrajjoshi/multiverse-portal"><img src="https://img.shields.io/badge/MULTIVERSE_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Project Multiverse repository" /></a>
 
-<img src="./assets/cursor-signal.svg" width="100%" alt="Animated LJ cursor signal showing analyze, validate, and ship." />
-
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/cursor-signal.svg" width="100%" alt="Open Project Multiverse with animated LJ cursor signal" /></a>
 
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/racing-hud.svg" width="100%" alt="Animated LJ Signal Racing telemetry HUD" /></a>

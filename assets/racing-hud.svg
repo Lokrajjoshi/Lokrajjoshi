@@ -10,7 +10,7 @@
 </defs>
 <rect width="1200" height="220" rx="24" fill="url(#bg)" stroke="#23405b"/>
 <rect width="1200" height="220" rx="24" fill="url(#grid)"/>
-<text x="44" y="42" fill="#67e8f9" font-family="Consolas,monospace" font-size="11" letter-spacing="3">LJ SIGNAL RACING // PROJECT MULTIVERSE TELEMETRY</text>
+<text x="44" y="42" fill="#67e8f9" font-family="Consolas,monospace" font-size="11" letter-spacing="3">LJ SIGNAL RACING // PROJECT MULTIVERSE TELEMETRY // ROCKET ONLINE</text>
 <text x="44" y="72" fill="#e9f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">DATA → SYSTEMS → QUALITY</text>
 <text x="44" y="94" fill="#8ba6bf" font-family="Consolas,monospace" font-size="10" letter-spacing="1.5">ANALYZE / VALIDATE / SHIP / REPEAT</text>
 <g stroke="url(#lane)" fill="none">
@@ -18,8 +18,8 @@
 <path d="M44 126H1156" stroke="#60a5fa" stroke-opacity=".15" stroke-dasharray="3 12"/>
 </g>
 <g transform="translate(120 125)" filter="url(#glow)">
-<path d="M-46 22L-35 0H-10L2-16H31L48 0H58L65 22Z" fill="url(#car)" stroke="#dffcff" stroke-width="1.5"/>
-<path d="M5-13H27L39 0H-2Z" fill="#071428" stroke="#67e8f9"/>
+<path d="M-42 18C-30 5-22-12 2-22C27-12 36 5 46 18L30 16L18 28H-14L-27 16Z" fill="url(#car)" stroke="#dffcff" stroke-width="1.5"/><path d="M-14 18L-27 36L-6 27M18 18L31 36L10 27" fill="none" stroke="#ff9b54" stroke-width="5" stroke-linecap="round"><animate attributeName="opacity" values=".25;1;.25" dur=".7s" repeatCount="indefinite"/></path>
+<path d="M-7-12L2-22L11-12Z" fill="#071428" stroke="#67e8f9"/><circle cx="2" cy="-4" r="5" fill="#071428" stroke="#67e8f9"/>
 <circle cx="-27" cy="23" r="9" fill="#050b14" stroke="#67e8f9" stroke-width="3"/><circle cx="37" cy="23" r="9" fill="#050b14" stroke="#a78bfa" stroke-width="3"/>
 <text x="5" y="13" text-anchor="middle" fill="#07111f" font-family="Consolas,monospace" font-size="10" font-weight="900">LJ</text>
 <animateMotion dur="7s" repeatCount="indefinite" path="M 0,0 C 180,-20 300,20 470,0 C 650,-25 800,18 1010,0"/>
