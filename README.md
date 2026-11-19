@@ -25,6 +25,8 @@
 
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/cursor-signal.svg" width="100%" alt="Open Project Multiverse with animated LJ cursor signal" /></a>
 
+<a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/racing-hud.svg" width="100%" alt="Animated LJ Signal Racing telemetry HUD" /></a>
+
 <img src="./assets/engagement-signal.svg" width="100%" alt="Animated Project Multiverse signal workflow: analyze, validate, ship." />
 
 </div>
@@ -116,15 +118,66 @@ I work at the intersection of **business insight, technical operations, and qual
 
 ---
 
-## Project Delivery Matrix
+## Signal Garage
 
-| Project | Problem solved | Technical role & architecture | Validation / outcome |
-|---|---|---|---|
-| **CarePulse** | Turns customer-experience signals into explainable intervention workflows | Designed analytics concepts, FastAPI/Jinja/SQLAlchemy layers, SQLite demo mode, PostgreSQL-ready configuration, APIs, and data-quality flows | Tests, role checks, audit events, SQL queries, Power BI assets, and Postman integration |
-| **Multiverse Signal Runner** | Makes data-quality concepts engaging through a playable browser mission | Built dependency-free ES modules, Canvas 2D rendering, separated game engine, responsive controls, and GitHub Pages delivery | Six native Node.js tests, collision logic, validation pulse, telemetry, CI, and live deployment |
-| **Student Project Tracker** | Makes scattered student delivery work visible and structured | CRUD-oriented tracking workflow with validation and project-status visibility | Repository documentation and workflow-focused project records |
-| **Student LMS** | Supports academic records and student workflows | React, Node.js, Express, MongoDB, CRUD APIs, and full-stack integration | API-driven data flow and repository-based implementation |
-| **Dell Trivia Game** | Converts product knowledge into an interactive browser experience | JavaScript, HTML, CSS, branching question logic, and frontend state handling | Browser interaction flow and user-facing result logic |
+A visual project lane for systems that move from an unclear problem to a tested, deployable result.
+
+<details>
+<summary><strong>🏁 CAREPULSE // CUSTOMER-EXPERIENCE INTELLIGENCE</strong></summary>
+
+**Problem:** Convert customer signals into explainable intervention workflows.  
+**Architecture:** FastAPI · Jinja · SQLAlchemy · SQLite demo mode · PostgreSQL-ready configuration.  
+**Validation:** SQL workflows · Postman integration · tests · role checks · audit events.  
+**Outcome:** A practical analytics and quality-engineering prototype.
+
+[Open CarePulse](https://github.com/Lokrajjoshi/CarePulse)
+
+</details>
+
+<details>
+<summary><strong>⚡ SIGNAL RUNNER // DATA-QUALITY MISSION</strong></summary>
+
+**Problem:** Make validation and data-quality concepts interactive.  
+**Architecture:** Dependency-free ES modules · Canvas 2D · separated game engine · GitHub Pages.  
+**Validation:** Six native Node.js tests · collision logic · mission progression · telemetry.  
+**Outcome:** A live playable engineering demonstration.
+
+[Play Signal Runner](https://lokrajjoshi.github.io/multiverse-signal-runner/) · [View source](https://github.com/Lokrajjoshi/multiverse-signal-runner)
+
+</details>
+
+<details>
+<summary><strong>🛰️ PROJECT TRACKER // DELIVERY VISIBILITY</strong></summary>
+
+**Problem:** Make scattered student delivery work visible and structured.  
+**Architecture:** CRUD-oriented tracking workflows with validation and project-status visibility.  
+**Outcome:** A practical project-management system for academic delivery.
+
+[Open Student Project Tracker](https://github.com/Lokrajjoshi/CIA3-Student-Tracker-System)
+
+</details>
+
+<details>
+<summary><strong>🧠 STUDENT LMS // ACADEMIC SYSTEMS</strong></summary>
+
+**Problem:** Support academic records and student workflows.  
+**Architecture:** React · Node.js · Express · MongoDB · CRUD APIs.  
+**Outcome:** A full-stack academic workflow implementation.
+
+[Open Student LMS](https://github.com/Lokrajjoshi/joshi-lms-react)
+
+</details>
+
+<details>
+<summary><strong>🏎️ DELL TRIVIA // INTERACTIVE FRONTEND</strong></summary>
+
+**Problem:** Turn product knowledge into an engaging browser experience.  
+**Architecture:** JavaScript · HTML · CSS · branching question logic.  
+**Outcome:** A compact interactive frontend system.
+
+[Open Dell Trivia Game](https://github.com/Lokrajjoshi/dell-trivia-game)
+
+</details>
 
 ---
 
