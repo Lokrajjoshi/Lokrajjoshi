@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,45:1D4ED8,100:06B6D4&height=160&section=header&text=LJ%20%7C%20JOSHI&fontSize=68&fontColor=FFFFFF&animation=twinkling" alt="Animated LJ Joshi logo" />
 
-# ⚡ LOKRAJ JOSHI
+# ⚡ ⟦ LJ ⟧ LOKRAJ · JOSHI ⟦ LJ ⟧
 
 ### MCA @ CHRIST University · 1 Year at Dell Technologies · SAP Labs India Alumni · Dell Campus Ambassador
 
@@ -11,6 +11,34 @@
 <p align="center"><a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/LJ-LOKRAJ%20JOSHI-161B22?style=for-the-badge&logo=github&logoColor=white" alt="LJ" /></a> <a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 </div>
+
+<p align="center">
+  <a href="#-professional-summary">PROFILE</a> ·
+  <a href="#-tech-stack">STACK</a> ·
+  <a href="#-featured-projects">PROJECTS</a> ·
+  <a href="#-professional-experience">EXPERIENCE</a> ·
+  <a href="#-contribution-activity">ACTIVITY</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Data%20%26%20Business%20Analysis-06B6D4?style=flat-square" alt="Data and Business Analysis" />
+  <img src="https://img.shields.io/badge/BUILD-Technical%20Solutions-1D4ED8?style=flat-square" alt="Technical Solutions" />
+  <img src="https://img.shields.io/badge/MODE-Always%20Learning-7C3AED?style=flat-square" alt="Always Learning" />
+</p>
+
+<details>
+<summary><strong>✨ Explore my engineering focus</strong></summary>
+
+<br />
+
+I work at the intersection of **business workflows, data quality, technical support, quality engineering, and practical software systems**.
+
+- **Translate:** turn business needs and operational problems into clear technical requirements.
+- **Validate:** use SQL, Python, API testing, and structured checks to improve data and system reliability.
+- **Build:** create useful MERN applications, automation workflows, and lightweight internal tools.
+- **Improve:** document findings, communicate clearly, and make systems easier to operate.
+
+</details>
 
 ---
 
@@ -33,6 +61,8 @@ MCA candidate with experience in technical support, automation testing, SQL, Pyt
 
 ## 🛠️ Tech Stack
 
+<p align="center"><strong>DATA • SYSTEMS • QUALITY • DELIVERY</strong></p>
+
 ### Languages
 <p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Python Java C JavaScript HTML CSS" /></p>
 
@@ -46,6 +76,20 @@ MCA candidate with experience in technical support, automation testing, SQL, Pyt
 ---
 
 ## 🚀 Featured Projects
+
+<details>
+<summary><strong>🧭 View project portfolio map</strong></summary>
+
+<br />
+
+| Track | Projects | Core signal |
+|---|---|---|
+| Data & analysis | CarePulse | Data quality, risk scoring, SQL, workflow insight |
+| Full-stack systems | Student LMS · Diamond Ring E-Commerce | CRUD, APIs, React, Node.js, MongoDB |
+| Delivery & tracking | Student Project Tracker | Process visibility and structured records |
+| Interactive experiences | Dell Trivia Game | Browser logic, UX flow, JavaScript |
+
+</details>
 
 ### 🩺 CarePulse — Customer Support Analytics
 Support analytics tool designed to help agents prioritize cases requiring follow-up based on experience risk.
@@ -125,6 +169,12 @@ Interactive browser-based trivia application built using JavaScript, HTML, and C
 - CCNA, Software Testing, and Full-Stack Web Development
 
 ---
+
+## 🧬 Engineering Activity Layer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=70&section=header&text=BUILD%20%E2%86%92%20TEST%20%E2%86%92%20ANALYZE%20%E2%86%92%20IMPROVE&fontSize=20&fontColor=FFFFFF&animation=fadeIn" alt="Build test analyze improve animation" />
+</p>
 
 ## 🌌 3D Contribution Graph
 
