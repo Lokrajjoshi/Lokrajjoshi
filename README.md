@@ -29,6 +29,15 @@
 
 </div>
 
+<p align="center"><sub><a href="#engineering-identity">IDENTITY</a> · <a href="#signal-garage">MISSION FLEET</a> · <a href="#capability-matrix">SIGNAL LAB</a> · <a href="#professional-flight-record">CAREER TELEMETRY</a> · <a href="#proof-of-work-signals">EVIDENCE CONSOLE</a> · <a href="#open-channel">OPEN CHANNEL</a></sub></p>
+
+<div align="center">
+
+<strong>NOW // ACTIVE SIGNAL</strong><br />
+<code>Data & Business Analysis</code> · <code>Technical Solutions</code> · <code>Quality Engineering</code> · <code>Systems in motion</code>
+
+</div>
+
 ---
 
 ## Project Multiverse
@@ -38,6 +47,8 @@
 Each world represents a practical system built around a different operational problem: customer-experience intelligence, academic workflows, delivery visibility, commerce operations, and interactive browser experiences.
 
 ## Engineering Identity
+
+<img src="./assets/operations-deck.svg" width="100%" alt="Animated LJ operations capability deck" />
 
 I work at the intersection of **business insight, technical operations, and quality engineering**—turning unclear signals into dependable workflows, testable APIs, and practical software systems.
 
