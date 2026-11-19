@@ -1,196 +1,186 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,45:1D4ED8,100:06B6D4&height=160&section=header&text=LOKRAJ%20JOSHI&fontSize=58&fontColor=FFFFFF&animation=twinkling" alt="Animated Lokraj Joshi wordmark" />
+<img src="./assets/multiverse-hero.svg" width="100%" alt="Lokraj Joshi Project Multiverse — animated identity portal" />
 
-# LOKRAJ JOSHI
+<br />
 
-### Data & Business Analysis · Technical Solutions · QA Automation
+### Data & Business Analysis · Technical Solutions · Quality Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=MCA+Student+%40+CHRIST+University;1+Year+of+Professional+Experience+%40+Dell+Technologies;Former+Automation+Testing+Intern+%40+SAP+Labs+India;Data+%26+Business+Analysis+%7C+Full-Stack+%7C+Automation+%7C+API+Testing;Representing+technology%2C+solving+problems%2C+building+reliable+systems" alt="Animated roles" />
+**MCA @ CHRIST University** · **1 year at Dell Technologies** · **Former SAP Labs India Intern** · **Dell Campus Ambassador**
 
-<p align="center"><a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/LJ-LOKRAJ%20JOSHI-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p>
+  <a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Lokraj%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Lokrajjoshi?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+</p>
+
+`ANALYZE` · `DESIGN` · `VALIDATE` · `DELIVER`
 
 </div>
 
+---
+
+## Project Multiverse
+
+<img src="./assets/project-map.svg" width="100%" alt="Animated map of Lokraj Joshi's project multiverse" />
+
+Each world represents a practical system built around a different operational problem: customer-experience intelligence, academic workflows, delivery visibility, commerce operations, and interactive browser experiences.
+
+---
+
+## Flagship System — CarePulse
+
+<a href="https://github.com/Lokrajjoshi/CarePulse">
+  <img src="./assets/worlds/carepulse-core.svg" width="100%" alt="Animated CarePulse customer-experience intelligence architecture" />
+</a>
+
+**CarePulse** is a synthetic, industry-neutral customer-experience intervention prototype. It connects customer signals, data-quality validation, explainable risk scoring, recovery workflows, and executive insight.
+
+| System layer | What it demonstrates |
+|---|---|
+| Experience intelligence | Silent-wait, customer-effort, experience-risk, recovery, and next-best-care calculations |
+| Data and analytics | Fixed-seed synthetic datasets, SQL learning queries, exports, Power BI assets, and validation workflows |
+| Application architecture | FastAPI, Jinja, SQLAlchemy, SQLite demo mode, and PostgreSQL-compatible configuration |
+| Quality and security | Role checks, organisation-scoped records, configurable thresholds, audit events, tests, and CI |
+| Integration | APIs, Postman collection, Java/Selenium starter suite, and event-driven simulation |
+
 <p align="center">
-  <a href="#professional-summary">PROFILE</a> ·
-  <a href="#capabilities">CAPABILITIES</a> ·
-  <a href="#selected-projects">SELECTED WORK</a> ·
-  <a href="#professional-experience">EXPERIENCE</a> ·
-  <a href="#connect-with-me">CONTACT</a>
+  <a href="https://github.com/Lokrajjoshi/CarePulse"><img src="https://img.shields.io/badge/OPEN_CAREPULSE-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open CarePulse repository" /></a>
 </p>
 
-<details>
-<summary><strong>How I work</strong></summary>
-
-<br />
-
-I work at the intersection of **business workflows, data quality, technical support, quality engineering, and practical software systems**.
-
-- **Translate:** turn business needs and operational problems into clear technical requirements.
-- **Validate:** use SQL, Python, API testing, and structured checks to improve data and system reliability.
-- **Build:** create useful MERN applications, automation workflows, and lightweight internal tools.
-- **Improve:** document findings, communicate clearly, and make systems easier to operate.
-
-</details>
-
 ---
 
-## Professional Summary
+## Supporting Project Worlds
 
-MCA candidate with experience in technical support, automation testing, SQL, Python, APIs, and web development. I enjoy connecting business needs with practical technical solutions — from understanding a workflow and its data, to building, testing, documenting, and improving the system behind it.
+<img src="./assets/worlds/supporting-worlds.svg" width="100%" alt="Animated Student LMS, Project Tracker, Commerce and Dell Trivia worlds" />
 
-## Profile
-
-- 🎓 Pursuing **Master of Computer Applications** at **CHRIST (Deemed to be University), Bengaluru**
-- 📊 Exploring **Data Analysis, Business Analysis, data validation, and insight-driven workflows**
-- 💼 Completed **1 full year of professional experience at Dell Technologies**
-- 🚀 Former **Automation Testing Intern at SAP Labs India**
-- 🧩 Former **Full-Stack Web Development Intern at Prinston Smart Engineers**
-- 🐍 Former **Python Intern at InternPe**
-- 🤝 Former **Dell Technologies Campus Ambassador**
-- 🛠️ Focused on **MERN applications, API engineering, test automation, and reliable workflows**
-
----
-
-## Capabilities
-
-<p align="center"><strong>DATA • SYSTEMS • QUALITY • DELIVERY</strong></p>
-
-### Languages
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Python Java C JavaScript HTML CSS" /></p>
-
-### Full Stack
-<p align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React Node.js Express MongoDB" /></p>
-
-### Databases, Testing & Tools
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,idea" alt="MySQL SQLite Git GitHub VS Code IntelliJ" /></p>
-<p align="center"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/API%20Testing-6C5CE7?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="API Testing" /></p>
-
----
-
-## Selected Projects
-
-<details>
-<summary><strong>Project overview</strong></summary>
-
-<br />
-
-| Track | Projects | Core signal |
+| World | System focus | Technology and outcome |
 |---|---|---|
-| Data & analysis | CarePulse | Data quality, risk scoring, SQL, workflow insight |
-| Full-stack systems | Student LMS · Diamond Ring E-Commerce | CRUD, APIs, React, Node.js, MongoDB |
-| Delivery & tracking | Student Project Tracker | Process visibility and structured records |
-| Interactive experiences | Dell Trivia Game | Browser logic, UX flow, JavaScript |
+| **Student LMS** | Academic records and student workflows | React · Node.js · Express · MongoDB · CRUD APIs |
+| **Student Project Tracker** | Delivery status and structured project records | Tracking workflows · validation · project visibility |
+| **Diamond Commerce** | Product and order operations | Authentication · catalogue · cart · inventory · admin |
+| **Dell Trivia Arena** | Interactive browser experience | JavaScript · HTML · CSS · branching question logic |
 
-</details>
-
-### 🩺 CarePulse — Customer Support Analytics
-Support analytics tool designed to help agents prioritize cases requiring follow-up based on experience risk.
-
-- Designed relational models for customers, cases, interactions, promises, feedback, and support events
-- Created experience-risk scoring using wait time, missed promises, transfers, sentiment, and customer effort
-- Added validation checks for missing fields, duplicate IDs, invalid dates, and malformed records
-- **Focus:** Python · SQL · SQLite · APIs · data quality
-
-### 🎓 Student Learning Management System
-Full-stack MERN application for managing student information and academic workflows.
-
-- React frontend with Node.js and Express APIs
-- MongoDB-backed data workflows and CRUD operations
-- **Stack:** React · Node.js · Express · MongoDB
-
-🔗 [View Repository](https://github.com/Lokrajjoshi/joshi-lms-react)
-
-### 💎 Diamond Ring E-Commerce Application
-Full-stack e-commerce application built for browsing, customizing, and ordering diamond rings.
-
-- Built responsive React.js pages and Node.js APIs
-- Implemented authentication, filtering, cart, admin dashboard, inventory, and order management
-- **Stack:** React.js · Node.js · Express.js · MongoDB
-
-### 📊 Student Project Tracker
-CRUD-based project tracking system for student projects, submissions, and academic information.
-
-🔗 [View Repository](https://github.com/Lokrajjoshi/CIA3-Student-Tracker-System)
-
-### 🎮 Dell Trivia Game
-Interactive browser-based trivia application built using JavaScript, HTML, and CSS.
-
-🔗 [View Repositories](https://github.com/Lokrajjoshi?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Lokrajjoshi/joshi-lms-react"><img src="https://img.shields.io/badge/STUDENT_LMS-6366F1?style=flat-square&logo=react&logoColor=white" alt="Student LMS repository" /></a>
+  <a href="https://github.com/Lokrajjoshi/CIA3-Student-Tracker-System"><img src="https://img.shields.io/badge/PROJECT_TRACKER-2563EB?style=flat-square&logo=github&logoColor=white" alt="Student Project Tracker repository" /></a>
+  <a href="https://github.com/Lokrajjoshi?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-0F172A?style=flat-square&logo=github&logoColor=white" alt="All repositories" /></a>
+</p>
 
 ---
 
-## Professional Experience
+## Capability Matrix
 
-### 💻 Dell Technologies — Senior Technician
+<table>
+<tr>
+<td width="25%" valign="top">
 
-- Completed **1 full year of professional experience**
-- Resolved hardware, software, operating system, and connectivity issues
-- Maintained clear customer communication and technical documentation
-- Achieved **100% CSAT for two quarters** and maintained key support metrics
+### Analysis
 
-### 🧩 Prinston Smart Engineers — Full-Stack Web Development Intern
+SQL  
+Data validation  
+Business workflows  
+Risk and quality signals  
+Reporting and insight
 
-- Developed a full-stack e-commerce application for diamond rings
-- Built responsive React.js pages and Node.js APIs
-- Implemented authentication, cart, filtering, admin dashboard, inventory, and order management
+</td>
+<td width="25%" valign="top">
 
-### 🚀 SAP Labs India — Automation Testing Intern
+### Systems
 
-- Automated API test scenarios for the BNL4 Monitoring App
-- Used Java, Postman, Git, IntelliJ, and Java Selenium
-- Validated API responses, debugged failures, and improved test coverage and maintainability
+Python  
+Java  
+JavaScript  
+REST APIs  
+MERN applications
 
-### 🐍 InternPe — Python Intern
+</td>
+<td width="25%" valign="top">
 
-- Built Python scripts for automation and file handling
-- Worked with debugging and data manipulation
-- Used Git for version control
+### Quality
 
-### 🤝 Dell Technologies — Campus Ambassador
+Selenium  
+Postman  
+API testing  
+Debugging  
+Test coverage
 
-- Represented Dell through campus outreach, workshops, student engagement, and collaboration
+</td>
+<td width="25%" valign="top">
+
+### Delivery
+
+Git and GitHub  
+Technical support  
+Documentation  
+Stakeholder communication  
+Process improvement
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,sqlite,selenium,postman,git,github,vscode,idea&perline=8" alt="Technical stack" />
+</p>
 
 ---
 
-## Leadership & Certifications
+## Professional Flight Record
 
-- **Class Representative / Event Coordinator** at CHRIST (Deemed to be University)
-- Football player, Karate practitioner, and trekking enthusiast
+| Mission | Role | Impact |
+|---|---|---|
+| **CHRIST (Deemed to be University), Bengaluru** | MCA Candidate | Building capability across analytics, business workflows, software systems, and quality engineering |
+| **Dell Technologies** | Senior Technician · 1 full year | Resolved hardware, software, OS, and connectivity issues; maintained technical documentation; achieved **100% CSAT for two quarters** |
+| **SAP Labs India** | Automation Testing Intern | Automated API test scenarios, validated responses, debugged failures, and improved test maintainability using Java, Postman, Git, IntelliJ, and Selenium |
+| **Prinston Smart Engineers** | Full-Stack Web Development Intern | Built responsive React pages, Node.js APIs, authentication, cart, filtering, inventory, admin, and order workflows |
+| **InternPe** | Python Intern | Developed Python automation and file-handling scripts; worked with debugging and data manipulation |
+| **Dell Technologies** | Campus Ambassador | Represented Dell through campus outreach, workshops, student engagement, and collaboration |
+
+<details>
+<summary><strong>Leadership, learning, and beyond</strong></summary>
+
+<br />
+
+- Class Representative / Event Coordinator at CHRIST (Deemed to be University)
 - Crash Course on Python — Coursera
 - Introduction to Hardware and Operating Systems — Coursera
 - CCNA, Software Testing, and Full-Stack Web Development
+- Football player, Karate practitioner, and trekking enthusiast
+
+</details>
 
 ---
 
-## Contribution Visuals
+## Live Activity Layer
 
-## 3D Contribution Graph
+<img src="./assets/activity/contribution-fx.svg" width="100%" alt="Animated live activity signal connecting contribution visuals" />
 
-<p align="center"><img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" /></p>
+### 3D Contribution World
 
-## Contribution Activity
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Lokrajjoshi/Lokrajjoshi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></p>
+### Contribution Snake
 
----
-
-## Highlights
-
-- 🎓 MCA candidate at CHRIST University
-- 💼 **1 year of professional experience at Dell Technologies**
-- 🚀 SAP Labs India automation testing experience
-- 🧩 Full-stack internship experience at Prinston Smart Engineers
-- 📊 Building toward Data Analysis and Business Analysis roles
-- 💻 Building practical MERN applications
-- 🧪 Experience with API testing, Selenium, Postman, and automation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lokrajjoshi/Lokrajjoshi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
 
 ---
 
-## Connect With Me
+<div align="center">
 
-<p align="center"><a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Lokraj%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/Lokrajjoshi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></p>
+## Open Channel
 
-<p align="center"><i>Analysis • Quality • Delivery</i></p>
-<p align="center">⭐ Thanks for visiting my profile!</p>
+**Interested in data, business analysis, technical operations, quality engineering, and practical software systems.**
+
+<a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:joshilokraj63@gmail.com"><img src="https://img.shields.io/badge/EMAIL-START_A_CONVERSATION-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
+
+<br /><br />
+
+`SYSTEM STATUS: EXPLORING · BUILDING · IMPROVING`
+
+</div>
