@@ -18,7 +18,7 @@
 
 `ANALYZE` · `DESIGN` · `VALIDATE` · `DELIVER`
 
-<a href="https://lokrajjoshi.github.io/"><img src="https://img.shields.io/badge/OPEN_INTERACTIVE_PROFILE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open interactive profile portal" /></a>
+<a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="https://img.shields.io/badge/OPEN_INTERACTIVE_PROFILE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open interactive profile portal" /></a>
 
 <img src="./assets/engagement-signal.svg" width="100%" alt="Animated Project Multiverse signal workflow: analyze, validate, ship." />
 
