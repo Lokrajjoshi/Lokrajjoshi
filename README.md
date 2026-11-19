@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,45:1D4ED8,100:06B6D4&height=160&section=header&text=LJ%20%7C%20JOSHI&fontSize=68&fontColor=FFFFFF&animation=twinkling" alt="Animated LJ Joshi logo" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,45:1D4ED8,100:06B6D4&height=160&section=header&text=LOKRAJ%20JOSHI&fontSize=58&fontColor=FFFFFF&animation=twinkling" alt="Animated Lokraj Joshi wordmark" />
 
 # LOKRAJ JOSHI
 
@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="#professional-summary">PROFILE</a> ·
-  <a href="#tech-stack">CAPABILITIES</a> ·
-  <a href="#featured-projects">SELECTED WORK</a> ·
+  <a href="#capabilities">CAPABILITIES</a> ·
+  <a href="#selected-projects">SELECTED WORK</a> ·
   <a href="#professional-experience">EXPERIENCE</a> ·
   <a href="#connect-with-me">CONTACT</a>
 </p>
