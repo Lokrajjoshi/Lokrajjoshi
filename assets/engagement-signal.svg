@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title desc">
+  <title id="title">Project Multiverse engagement signal</title>
+  <desc id="desc">A compact animated technical easter egg showing the workflow analyze, validate, ship and inviting visitors to enter the Multiverse.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#101c3a"/><stop offset="1" stop-color="#120d2d"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#38bdf8" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="120" rx="20" fill="url(#bg)" stroke="#334a78"/>
+  <rect width="1200" height="120" rx="20" fill="url(#grid)"/>
+  <path d="M42 83H1158" stroke="url(#line)" stroke-width="2"/>
+  <g transform="translate(48 31)">
+    <circle cx="26" cy="27" r="21" fill="#07111f" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+    <path d="M16 34L26 11L36 34L26 29Z" fill="#67e8f9" opacity=".85"><animateTransform attributeName="transform" type="rotate" values="0 26 27;360 26 27" dur="7s" repeatCount="indefinite"/></path>
+    <text x="26" y="30" text-anchor="middle" fill="#07111f" font-family="Consolas,monospace" font-size="8" font-weight="700">LJ</text>
+  </g>
+  <text x="112" y="38" fill="#dffcff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">SIGNAL DETECTED</text>
+  <text x="112" y="59" fill="#7dd3fc" font-family="Consolas,monospace" font-size="10" letter-spacing="1.2">WHEN THE DATA LOOKS QUIET, INVESTIGATE THE SIGNAL.</text>
+  <g font-family="Consolas,monospace" font-size="10" font-weight="700">
+    <g transform="translate(610 30)"><rect width="135" height="38" rx="9" fill="#0b2340" stroke="#22d3ee"/><text x="67" y="24" text-anchor="middle" fill="#67e8f9">ANALYZE</text><circle cx="11" cy="11" r="3" fill="#22d3ee"><animate attributeName="cx" values="11;124;11" dur="3s" repeatCount="indefinite"/></circle></g>
+    <path d="M758 49H780" stroke="#67e8f9" stroke-width="2"/>
+    <g transform="translate(790 30)"><rect width="135" height="38" rx="9" fill="#18183b" stroke="#a78bfa"/><text x="67" y="24" text-anchor="middle" fill="#c4b5fd">VALIDATE</text><circle cx="11" cy="11" r="3" fill="#a78bfa"><animate attributeName="cx" values="11;124;11" dur="3s" begin=".7s" repeatCount="indefinite"/></circle></g>
+    <path d="M938 49H960" stroke="#c4b5fd" stroke-width="2"/>
+    <g transform="translate(970 30)"><rect width="135" height="38" rx="9" fill="#0d2c2d" stroke="#2dd4bf"/><text x="67" y="24" text-anchor="middle" fill="#99f6e4">SHIP</text><circle cx="11" cy="11" r="3" fill="#2dd4bf"><animate attributeName="cx" values="11;124;11" dur="3s" begin="1.4s" repeatCount="indefinite"/></circle></g>
+  </g>
+  <text x="600" y="101" text-anchor="middle" fill="#94a3b8" font-family="Consolas,monospace" font-size="9" letter-spacing="2">PROJECT MULTIVERSE // LJ SIGNAL RUNNER // CAREPULSE // SYSTEMS ONLINE</text>
+</svg>
+

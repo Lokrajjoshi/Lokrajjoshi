@@ -4,9 +4,11 @@
 
 <br />
 
+<img src="./assets/credential-deck.svg" width="100%" alt="Animated LJ credential deck showing MCA at CHRIST University, one full year at Dell Technologies, former SAP Labs India intern, and Dell Campus Ambassador." />
+
 ### Data & Business Analysis · Technical Solutions · Quality Engineering
 
-**MCA @ CHRIST University** · **1 year at Dell Technologies** · **Former SAP Labs India Intern** · **Dell Campus Ambassador**
+<p align="center"><sub><strong>MCA @ CHRIST University</strong> · <strong>1 full year @ Dell Technologies</strong> · <strong>Former SAP Labs India Intern</strong> · <strong>Dell Campus Ambassador</strong></sub></p>
 
 <p>
   <a href="https://www.linkedin.com/in/lokraj-joshi11/"><img src="https://img.shields.io/badge/LinkedIn-Lokraj%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,6 +17,10 @@
 </p>
 
 `ANALYZE` · `DESIGN` · `VALIDATE` · `DELIVER`
+
+<a href="https://lokrajjoshi.github.io/"><img src="https://img.shields.io/badge/OPEN_INTERACTIVE_PROFILE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open interactive profile portal" /></a>
+
+<img src="./assets/engagement-signal.svg" width="100%" alt="Animated Project Multiverse signal workflow: analyze, validate, ship." />
 
 </div>
 
