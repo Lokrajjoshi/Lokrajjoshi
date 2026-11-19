@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="t d">
+<title id="t">Lokraj Joshi Project Multiverse Map</title><desc id="d">Animated map connecting CarePulse, Student LMS, Project Tracker, E-Commerce and Dell Trivia projects.</desc>
+<defs>
+<linearGradient id="b" x1="0" x2="1" y2="1"><stop stop-color="#050815"/><stop offset=".5" stop-color="#0a1730"/><stop offset="1" stop-color="#07131f"/></linearGradient>
+<radialGradient id="p"><stop stop-color="#dffcff"/><stop offset=".14" stop-color="#22d3ee"/><stop offset=".48" stop-color="#2563eb"/><stop offset="1" stop-color="#312e81" stop-opacity="0"/></radialGradient>
+<filter id="g"><feGaussianBlur stdDeviation="5" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#38bdf8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="540" rx="24" fill="url(#b)"/><rect width="1200" height="540" rx="24" fill="url(#grid)"/>
+<text x="56" y="62" fill="#e6fbff" font-family="Segoe UI,Arial" font-size="25" font-weight="700" letter-spacing="4">PROJECT MULTIVERSE</text>
+<text x="56" y="87" fill="#67e8f9" font-family="Consolas,monospace" font-size="11" letter-spacing="2">SYSTEMS CONNECTED BY ANALYSIS • QUALITY • DELIVERY</text>
+<g fill="none" stroke="#38bdf8" stroke-opacity=".28">
+<ellipse cx="600" cy="298" rx="470" ry="168"/><ellipse cx="600" cy="298" rx="350" ry="122" stroke="#8b5cf6" stroke-opacity=".24"/>
+</g>
+<g stroke-width="2" fill="none" stroke-dasharray="6 10">
+<path d="M600 298L248 212" stroke="#22d3ee"><animate attributeName="stroke-dashoffset" values="0;-64" dur="3s" repeatCount="indefinite"/></path>
+<path d="M600 298L952 190" stroke="#a78bfa"><animate attributeName="stroke-dashoffset" values="0;-64" dur="3.6s" repeatCount="indefinite"/></path>
+<path d="M600 298L256 400" stroke="#60a5fa"><animate attributeName="stroke-dashoffset" values="0;-64" dur="4.1s" repeatCount="indefinite"/></path>
+<path d="M600 298L930 405" stroke="#2dd4bf"><animate attributeName="stroke-dashoffset" values="0;-64" dur="3.3s" repeatCount="indefinite"/></path>
+<path d="M600 298L600 466" stroke="#f59e0b"><animate attributeName="stroke-dashoffset" values="0;-64" dur="4.4s" repeatCount="indefinite"/></path>
+</g>
+<g transform="translate(600 298)">
+<circle r="92" fill="url(#p)" opacity=".32"><animate attributeName="r" values="86;98;86" dur="5s" repeatCount="indefinite"/></circle>
+<circle r="64" fill="#071427" stroke="#67e8f9" stroke-width="2" filter="url(#g)"/>
+<circle r="51" fill="none" stroke="#60a5fa" stroke-dasharray="3 8"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="11s" repeatCount="indefinite"/></circle>
+<text y="-4" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="24" font-weight="800">LOKRAJ</text>
+<text y="21" text-anchor="middle" fill="#67e8f9" font-family="Consolas,monospace" font-size="9" letter-spacing="2">SYSTEMS CORE</text>
+</g>
+<g font-family="Segoe UI,Arial">
+<g transform="translate(120 150)"><circle cx="128" cy="62" r="62" fill="#07192d" stroke="#22d3ee" stroke-width="2"/><circle cx="128" cy="62" r="48" fill="none" stroke="#22d3ee" stroke-opacity=".3"><animate attributeName="r" values="44;55;44" dur="4s" repeatCount="indefinite"/></circle><path d="M102 62h52M128 36v52" stroke="#67e8f9" stroke-width="5" stroke-linecap="round"/><text x="128" y="143" text-anchor="middle" fill="#e6fbff" font-size="18" font-weight="700">CarePulse</text><text x="128" y="163" text-anchor="middle" fill="#67e8f9" font-size="10" letter-spacing="1.3">CX INTELLIGENCE</text></g>
+<g transform="translate(840 132)"><circle cx="112" cy="58" r="58" fill="#11132e" stroke="#a78bfa" stroke-width="2"/><path d="M82 48l30-15 30 15-30 15zM91 62v27h42V62" fill="none" stroke="#c4b5fd" stroke-width="3"/><text x="112" y="137" text-anchor="middle" fill="#f5f3ff" font-size="18" font-weight="700">Student LMS</text><text x="112" y="157" text-anchor="middle" fill="#c4b5fd" font-size="10" letter-spacing="1.3">ACADEMIC SYSTEM</text></g>
+<g transform="translate(140 340)"><rect x="54" width="124" height="92" rx="18" fill="#08172e" stroke="#60a5fa" stroke-width="2"/><path d="M78 25h76M78 46h54M78 67h66" stroke="#93c5fd" stroke-width="5" stroke-linecap="round"/><circle cx="160" cy="25" r="5" fill="#22d3ee"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><text x="116" y="122" text-anchor="middle" fill="#eff6ff" font-size="18" font-weight="700">Project Tracker</text><text x="116" y="142" text-anchor="middle" fill="#93c5fd" font-size="10" letter-spacing="1.3">DELIVERY GRID</text></g>
+<g transform="translate(822 346)"><path d="M64 10h144l-14 88H79z" fill="#071d27" stroke="#2dd4bf" stroke-width="2"/><circle cx="100" cy="114" r="9" fill="#5eead4"/><circle cx="178" cy="114" r="9" fill="#5eead4"/><path d="M86 34h100M91 55h92M96 76h84" stroke="#5eead4" stroke-opacity=".6"/><text x="136" y="150" text-anchor="middle" fill="#ecfeff" font-size="18" font-weight="700">Commerce System</text><text x="136" y="170" text-anchor="middle" fill="#5eead4" font-size="10" letter-spacing="1.3">PRODUCT OPERATIONS</text></g>
+<g transform="translate(508 428)"><rect width="184" height="74" rx="37" fill="#25150a" stroke="#f59e0b" stroke-width="2"/><text x="92" y="31" text-anchor="middle" fill="#fef3c7" font-size="15" font-weight="700">DELL TRIVIA</text><text x="92" y="52" text-anchor="middle" fill="#fbbf24" font-size="9" letter-spacing="1.6">INTERACTIVE ARENA</text><circle cx="22" cy="37" r="5" fill="#fbbf24"><animate attributeName="cx" values="22;162;22" dur="4s" repeatCount="indefinite"/></circle></g>
+</g>
+<rect x="1" y="1" width="1198" height="538" rx="23" fill="none" stroke="#38bdf8" stroke-opacity=".25"/>
+</svg>
