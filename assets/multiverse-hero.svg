@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Lokraj Joshi Project Multiverse</title>
+<desc id="desc">Animated cinematic identity portal connecting data analysis, quality engineering, technical solutions and project worlds.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".48" stop-color="#0b1633"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+  <radialGradient id="core"><stop stop-color="#e8fbff"/><stop offset=".18" stop-color="#67e8f9"/><stop offset=".46" stop-color="#2563eb"/><stop offset="1" stop-color="#4c1d95" stop-opacity="0"/></radialGradient>
+  <linearGradient id="word" x1="0" x2="1"><stop stop-color="#f8fafc"/><stop offset=".45" stop-color="#a5f3fc"/><stop offset="1" stop-color="#93c5fd"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#38bdf8" stroke-opacity=".08"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  <clipPath id="horizon"><rect x="0" y="0" width="1200" height="520" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#horizon)">
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="520" fill="url(#grid)"/>
+<ellipse cx="600" cy="475" rx="560" ry="145" fill="none" stroke="#38bdf8" stroke-opacity=".16"/>
+<ellipse cx="600" cy="475" rx="420" ry="105" fill="none" stroke="#8b5cf6" stroke-opacity=".17"/>
+<path d="M0 430 Q300 340 600 430 T1200 430" fill="none" stroke="url(#line)" stroke-width="2" opacity=".38"/>
+<g fill="#e0f2fe">
+  <circle cx="84" cy="72" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="186" cy="122" r="1"><animate attributeName="opacity" values=".1;.8;.1" dur="4.2s" repeatCount="indefinite"/></circle>
+  <circle cx="303" cy="54" r="1.4"><animate attributeName="opacity" values=".3;1;.3" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="882" cy="74" r="1.3"><animate attributeName="opacity" values=".2;1;.2" dur="3.7s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="118" r="1.6"><animate attributeName="opacity" values=".1;.9;.1" dur="4.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1010" cy="250" r="1"><animate attributeName="opacity" values=".2;1;.2" dur="2.6s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(600 232)">
+  <circle r="154" fill="url(#core)" opacity=".23" filter="url(#soft)"><animate attributeName="r" values="145;166;145" dur="6s" repeatCount="indefinite"/></circle>
+  <ellipse rx="214" ry="72" fill="none" stroke="#22d3ee" stroke-opacity=".34" stroke-width="2" transform="rotate(-14)">
+    <animateTransform attributeName="transform" type="rotate" values="-14;346" dur="18s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse rx="176" ry="118" fill="none" stroke="#8b5cf6" stroke-opacity=".28" stroke-width="1.5" transform="rotate(38)">
+    <animateTransform attributeName="transform" type="rotate" values="38;-322" dur="24s" repeatCount="indefinite"/>
+  </ellipse>
+  <circle r="92" fill="#071428" stroke="#67e8f9" stroke-width="2" filter="url(#glow)"/>
+  <circle r="78" fill="none" stroke="#60a5fa" stroke-opacity=".38" stroke-dasharray="4 10">
+    <animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <text x="0" y="-8" text-anchor="middle" fill="#e6fbff" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="7">LJ</text>
+  <text x="0" y="28" text-anchor="middle" fill="#67e8f9" font-family="Consolas,monospace" font-size="11" letter-spacing="3">IDENTITY CORE</text>
+  <circle cx="202" cy="-50" r="8" fill="#22d3ee" filter="url(#glow)"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="-140" cy="-92" r="6" fill="#a78bfa" filter="url(#glow)"><animate attributeName="opacity" values="1;.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Consolas,monospace" font-size="11" letter-spacing="1.4">
+  <g transform="translate(86 188)"><rect width="210" height="78" rx="14" fill="#08172b" stroke="#22d3ee" stroke-opacity=".55"/><circle cx="24" cy="24" r="5" fill="#22d3ee"/><text x="42" y="28" fill="#e2f8ff">DATA &amp; BUSINESS</text><text x="24" y="53" fill="#7dd3fc">ANALYSIS SIGNAL</text></g>
+  <g transform="translate(904 188)"><rect width="210" height="78" rx="14" fill="#08172b" stroke="#8b5cf6" stroke-opacity=".55"/><circle cx="24" cy="24" r="5" fill="#a78bfa"/><text x="42" y="28" fill="#f1edff">QUALITY ENGINEERING</text><text x="24" y="53" fill="#c4b5fd">TEST • VERIFY • SHIP</text></g>
+  <g transform="translate(132 328)"><rect width="220" height="66" rx="14" fill="#08172b" stroke="#3b82f6" stroke-opacity=".45"/><text x="22" y="27" fill="#bfdbfe">TECHNICAL SOLUTIONS</text><text x="22" y="48" fill="#60a5fa">SYSTEMS • API • DATA</text></g>
+  <g transform="translate(848 328)"><rect width="220" height="66" rx="14" fill="#08172b" stroke="#14b8a6" stroke-opacity=".45"/><text x="22" y="27" fill="#ccfbf1">OPERATIONAL IMPACT</text><text x="22" y="48" fill="#5eead4">CLARITY • RELIABILITY</text></g>
+</g>
+<g stroke="url(#line)" stroke-width="2" fill="none" stroke-dasharray="7 9">
+  <path d="M296 228 C410 228 438 232 505 232"><animate attributeName="stroke-dashoffset" values="0;-64" dur="3s" repeatCount="indefinite"/></path>
+  <path d="M695 232 C770 232 807 228 904 228"><animate attributeName="stroke-dashoffset" values="0;-64" dur="3.4s" repeatCount="indefinite"/></path>
+  <path d="M352 360 C440 340 467 310 524 286"><animate attributeName="stroke-dashoffset" values="0;-64" dur="4s" repeatCount="indefinite"/></path>
+  <path d="M676 286 C738 314 770 344 848 360"><animate attributeName="stroke-dashoffset" values="0;-64" dur="3.7s" repeatCount="indefinite"/></path>
+</g>
+<rect x="330" y="40" width="540" height="58" rx="29" fill="#071326" stroke="#38bdf8" stroke-opacity=".22"/>
+<text x="600" y="78" text-anchor="middle" fill="url(#word)" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="9">LOKRAJ JOSHI</text>
+<text x="600" y="454" text-anchor="middle" fill="#8bdcf3" font-family="Consolas,monospace" font-size="12" letter-spacing="3">PROJECT MULTIVERSE / BENGALURU / ONLINE</text>
+<rect x="-260" y="0" width="180" height="520" fill="url(#line)" opacity=".08" transform="skewX(-18)">
+  <animate attributeName="x" values="-260;1400" dur="7s" repeatCount="indefinite"/>
+</rect>
+</g>
+<rect x="1" y="1" width="1198" height="518" rx="27" fill="none" stroke="#38bdf8" stroke-opacity=".28"/>
+</svg>
