@@ -37,6 +37,17 @@
 
 Each world represents a practical system built around a different operational problem: customer-experience intelligence, academic workflows, delivery visibility, commerce operations, and interactive browser experiences.
 
+## Engineering Identity
+
+I work at the intersection of **business insight, technical operations, and quality engineering**—turning unclear signals into dependable workflows, testable APIs, and practical software systems.
+
+| Focus | What I bring |
+|---|---|
+| Business & Data Analysis | SQL, validation, reporting, workflow mapping, and decision-ready insight |
+| Technical Solutions | Python, Java, JavaScript, REST APIs, MERN systems, and troubleshooting |
+| Quality Engineering | Selenium, Postman, API validation, debugging, test coverage, and CI checks |
+| Technical Operations | One full year at Dell Technologies, incident resolution, documentation, CSAT, and stakeholder communication |
+
 ---
 
 ## Flagship System — CarePulse
@@ -102,6 +113,18 @@ Each world represents a practical system built around a different operational pr
 | Analytics | Live integrity · coverage · insight · signal · combo · high-score telemetry |
 | Game logic | Collision model · validation pulse · boost state · mission progression · accessibility-aware controls |
 | Delivery | GitHub Actions CI · GitHub Pages deployment · responsive keyboard and touch controls |
+
+---
+
+## Project Delivery Matrix
+
+| Project | Problem solved | Technical role & architecture | Validation / outcome |
+|---|---|---|---|
+| **CarePulse** | Turns customer-experience signals into explainable intervention workflows | Designed analytics concepts, FastAPI/Jinja/SQLAlchemy layers, SQLite demo mode, PostgreSQL-ready configuration, APIs, and data-quality flows | Tests, role checks, audit events, SQL queries, Power BI assets, and Postman integration |
+| **Multiverse Signal Runner** | Makes data-quality concepts engaging through a playable browser mission | Built dependency-free ES modules, Canvas 2D rendering, separated game engine, responsive controls, and GitHub Pages delivery | Six native Node.js tests, collision logic, validation pulse, telemetry, CI, and live deployment |
+| **Student Project Tracker** | Makes scattered student delivery work visible and structured | CRUD-oriented tracking workflow with validation and project-status visibility | Repository documentation and workflow-focused project records |
+| **Student LMS** | Supports academic records and student workflows | React, Node.js, Express, MongoDB, CRUD APIs, and full-stack integration | API-driven data flow and repository-based implementation |
+| **Dell Trivia Game** | Converts product knowledge into an interactive browser experience | JavaScript, HTML, CSS, branching question logic, and frontend state handling | Browser interaction flow and user-facing result logic |
 
 ---
 
@@ -203,6 +226,21 @@ Process improvement
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lokrajjoshi/Lokrajjoshi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
+
+---
+
+## Proof-of-Work Signals
+
+<p align="center">
+  <img src="./assets/activity/contribution-fx.svg" width="100%" alt="Animated contribution activity signal" />
+</p>
+
+`TESTED` · `VALIDATED` · `DOCUMENTED` · `DEPLOYED`
+
+- **Testing:** Selenium, Postman, API validation, native Node.js tests, debugging, and regression checks
+- **Data workflows:** SQL learning queries, fixed-seed datasets, exports, validation rules, and reporting assets
+- **Delivery:** GitHub Actions CI, GitHub Pages deployment, responsive controls, and reduced-motion support
+- **Architecture:** FastAPI, MERN, Canvas 2D, REST APIs, SQLite demo mode, and PostgreSQL-compatible configuration
 
 ---
 

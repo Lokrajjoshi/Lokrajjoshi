@@ -1,0 +1,55 @@
+name: Profile quality gate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
+      - name: Validate README assets and SVG/XML
+        shell: bash
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+
+          root = Path(".")
+          readme = (root / "README.md").read_text(encoding="utf-8")
+          refs = set(re.findall(r'(?:src|href)="(\./[^"]+)"', readme))
+          refs |= set(re.findall(r'\]\((\./[^)]+)\)', readme))
+          missing = [ref for ref in refs if not (root / ref[2:]).exists()]
+          if missing:
+              raise SystemExit("Missing README assets: " + ", ".join(sorted(missing)))
+
+          for svg in root.rglob("*.svg"):
+              ET.parse(svg)
+          print(f"Validated {len(refs)} README assets and all SVG/XML files.")
+          PY
+
+      - name: Validate required systems
+        shell: bash
+        run: |
+          test -f .github/workflows/snake.yml
+          test -f .github/workflows/profile-3d.yml
+          test -f .github/workflows/pages.yml
+          grep -q "multiverse-signal-runner" README.md
+          grep -q "lokrajjoshi.github.io/Lokrajjoshi" README.md
+          grep -q "lokrajjoshi.github.io/multiverse-signal-runner" README.md
+
+      - name: Smoke-test live Pages endpoints
+        shell: bash
+        run: |
+          curl --fail --silent --show-error --location --retry 3 --max-time 20 https://lokrajjoshi.github.io/Lokrajjoshi/ > /dev/null
+          curl --fail --silent --show-error --location --retry 3 --max-time 20 https://lokrajjoshi.github.io/multiverse-signal-runner/ > /dev/null
