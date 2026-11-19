@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="t d">
+<title id="t">Project Multiverse activity signal</title><desc id="d">Animated signal layer connecting the live contribution snake and 3D contribution graph.</desc>
+<defs><linearGradient id="b"><stop stop-color="#050815"/><stop offset=".5" stop-color="#081a30"/><stop offset="1" stop-color="#07131f"/></linearGradient><linearGradient id="l"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="180" rx="22" fill="url(#b)"/>
+<text x="48" y="50" fill="#e6fbff" font-family="Segoe UI,Arial" font-size="20" font-weight="700" letter-spacing="3">LIVE ACTIVITY LAYER</text>
+<text x="48" y="76" fill="#67e8f9" font-family="Consolas,monospace" font-size="10" letter-spacing="1.6">3D CONTRIBUTIONS + SNAKE SIGNAL / AUTOMATED DAILY</text>
+<path d="M48 126 C180 78 260 158 380 116 S590 72 700 120 900 160 1150 94" fill="none" stroke="#164e63" stroke-width="2"/>
+<path d="M48 126 C180 78 260 158 380 116 S590 72 700 120 900 160 1150 94" fill="none" stroke="url(#l)" stroke-width="3" stroke-dasharray="16 18" filter="url(#g)"><animate attributeName="stroke-dashoffset" values="0;-136" dur="4s" repeatCount="indefinite"/></path>
+<g fill="#22d3ee"><circle cx="48" cy="126" r="5"/><circle cx="380" cy="116" r="5"/><circle cx="700" cy="120" r="5"/><circle cx="1150" cy="94" r="5"/></g>
+<circle cx="48" cy="126" r="8" fill="#a5f3fc" filter="url(#g)"><animateMotion dur="7s" repeatCount="indefinite" path="M0 0 C132 -48 212 32 332 -10 S542 -54 652 -6 852 34 1102 -32"/></circle>
+<rect x="1" y="1" width="1198" height="178" rx="21" fill="none" stroke="#38bdf8" stroke-opacity=".24"/>
+</svg>
