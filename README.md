@@ -23,6 +23,8 @@
 
 <img src="./assets/cursor-signal.svg" width="100%" alt="Animated LJ cursor signal showing analyze, validate, and ship." />
 
+<a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/cursor-signal.svg" width="100%" alt="Open Project Multiverse with animated LJ cursor signal" /></a>
+
 <img src="./assets/engagement-signal.svg" width="100%" alt="Animated Project Multiverse signal workflow: analyze, validate, ship." />
 
 </div>
