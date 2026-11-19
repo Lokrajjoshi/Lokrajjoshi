@@ -69,6 +69,31 @@ Each world represents a practical system built around a different operational pr
 
 ---
 
+## Interactive Mission — Multiverse Signal Runner
+
+<a href="https://lokrajjoshi.github.io/multiverse-signal-runner/">
+  <img src="./assets/game/multiverse-signal-runner-preview.svg" width="100%" alt="Animated preview of Multiverse Signal Runner — a playable data-quality mission by Lokraj Joshi" />
+</a>
+
+<div align="center">
+
+<a href="https://lokrajjoshi.github.io/multiverse-signal-runner/"><img src="https://img.shields.io/badge/ENTER_THE_MULTIVERSE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Enter the Multiverse game" /></a>
+<a href="https://github.com/Lokrajjoshi/multiverse-signal-runner"><img src="https://img.shields.io/badge/VIEW_SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View game source" /></a>
+
+</div>
+
+**Collect trusted signals. Validate anomalies. Restore the Bengaluru data grid.** Pilot the LJ Signal Drone through a cinematic data-quality mission designed around analytics, technical operations, automation, and quality engineering.
+
+| System layer | Technical signal |
+|---|---|
+| Architecture | Dependency-free ES modules · Canvas 2D · separated domain engine |
+| Quality | 6 native Node.js tests covering scoring, hazards, validation, missions, and rank |
+| Analytics | Live integrity · coverage · insight · signal · combo · high-score telemetry |
+| Game logic | Collision model · validation pulse · boost state · mission progression · accessibility-aware controls |
+| Delivery | GitHub Actions CI · GitHub Pages deployment · responsive keyboard and touch controls |
+
+---
+
 ## Capability Matrix
 
 <table>
