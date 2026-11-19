@@ -2,6 +2,8 @@
 
 <img src="./assets/multiverse-hero.svg" width="100%" alt="Lokraj Joshi Project Multiverse — animated identity portal" />
 
+<p align="center"><img src="./assets/lokraj-joshi-portrait.png" width="210" alt="Lokraj Joshi portrait" /></p>
+
 <br />
 
 <img src="./assets/credential-deck.svg" width="100%" alt="Animated LJ credential deck showing MCA at CHRIST University, one full year at Dell Technologies, former SAP Labs India intern, and Dell Campus Ambassador." />
@@ -19,6 +21,7 @@
 `ANALYZE` · `DESIGN` · `VALIDATE` · `DELIVER`
 
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="https://img.shields.io/badge/OPEN_INTERACTIVE_PROFILE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open interactive profile portal" /></a>
+<a href="https://github.com/Lokrajjoshi/multiverse-portal"><img src="https://img.shields.io/badge/MULTIVERSE_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Project Multiverse repository" /></a>
 
 <img src="./assets/engagement-signal.svg" width="100%" alt="Animated Project Multiverse signal workflow: analyze, validate, ship." />
 
