@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/multiverse-hero.svg" width="100%" alt="Lokraj Joshi Project Multiverse — animated identity portal" />
+<a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/multiverse-hero.svg" width="100%" alt="Open Lokraj Joshi Project Multiverse — interactive identity portal" /></a>
 
 <br />
 
@@ -18,7 +18,7 @@
 
 `ANALYZE` · `DESIGN` · `VALIDATE` · `DELIVER`
 
-<a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="https://img.shields.io/badge/OPEN_INTERACTIVE_PROFILE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open interactive profile portal" /></a>
+<a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="https://img.shields.io/badge/ENTER_PROJECT_MULTIVERSE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f" alt="Open the interactive Project Multiverse portal" /></a>
 <a href="https://github.com/Lokrajjoshi/multiverse-portal"><img src="https://img.shields.io/badge/MULTIVERSE_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Project Multiverse repository" /></a>
 
 <img src="./assets/cursor-signal.svg" width="100%" alt="Animated LJ cursor signal showing analyze, validate, and ship." />
