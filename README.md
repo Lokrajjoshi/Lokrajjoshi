@@ -1,5 +1,26 @@
 <div align="center">
 
+## LJ // EXECUTIVE SIGNAL CONSOLE
+
+`VERSATILE TECHNICAL ANALYST` · `DATA & BUSINESS ANALYSIS` · `TECHNICAL SOLUTIONS` · `QUALITY ENGINEERING`
+
+**I translate business questions into validated workflows, useful insight, and dependable systems.**
+
+| SIGNAL | EVIDENCE | DELIVERY MODE |
+|---|---|---|
+| DATA INTELLIGENCE | SQL · reporting · validation · workflow mapping | decision-ready insight |
+| TECHNICAL SOLUTIONS | Python · REST APIs · MERN · troubleshooting | practical systems |
+| QUALITY ENGINEERING | Selenium · Postman · API testing · CI | tested releases |
+| OPERATIONS | Dell Technologies · documentation · stakeholder clarity | reliable execution |
+
+<a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/operations-deck.svg" width="100%" alt="Open the animated LJ capability command center" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
 <a href="https://lokrajjoshi.github.io/Lokrajjoshi/"><img src="./assets/multiverse-hero.svg" width="100%" alt="Open Lokraj Joshi Project Multiverse — interactive identity portal" /></a>
 
 <br />
